@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestPermisos</string>
+    <string name="habilitar_permiso">Habilitar Permiso</string>
+</resources>
